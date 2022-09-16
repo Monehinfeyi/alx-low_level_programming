@@ -1,9 +1,29 @@
-##C-functions, nested and loops continues.
 
-### More functions, more nested loops
 
-# Language: C
-# OS: Ubuntu 20.04 LTS
+# More functions, more nested loops
+
+## Language: C
+## OS: Ubuntu 20.04 LTS
+
+## SYNOPSIS
+This directory contains some projects I worked on for ALX SOFTWARE ENGINEERING PROGRAM. The goal was to learn coding and concepts through the C programming language.
+
+# CONCEPT
+>nested loops and how to use them
+
+>functions and how to use functions
+
+>difference between a declaration and a definition of a function
+
+>a prototype
+
+>scope of variables
+
+>gcc flags -Wall -Werror -pedantic -Wextra
+
+>header files and how to to use them with #include
+
+# DESCRIPTION OF WHAT EACH FILE DOES:
 
 0- A function that checks for uppercase character
 
