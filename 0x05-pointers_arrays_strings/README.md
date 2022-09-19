@@ -6,16 +6,24 @@ This directory contains the basic project on C - Pointers, arrays and strings
 This directory contains some projects I worked on for ALX. The goal is to learn coding and concepts through the C programming language.
 
 ## Concepts to be learned in this repository:
-> pointers and how to use them
-> arrays and how to use them
-> differences between pointers and arrays
-> how to use strings and how to manipulate them
-> scope of variables
+
+>- pointers and how to use them
+
+>- arrays and how to use them
+
+>- differences between pointers and arrays
+
+>- how to use strings and how to manipulate them
+
+>- scope of variables
 
  ## REQUIREMENT
-> LANGUAGE: C
-> OS: Ubuntu 20.04 LTS
-> STYLE QUIDELINE: Betty style
+
+>. LANGUAGE: C
+
+>. OS: Ubuntu 20.04 LTS
+
+>. STYLE QUIDELINE: Betty style
 
 
 # Description of what each file does:
