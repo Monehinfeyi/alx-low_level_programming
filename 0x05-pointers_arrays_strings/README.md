@@ -23,7 +23,9 @@ This directory contains some projects I worked on for ALX. The goal is to learn 
 
 >. OS: Ubuntu 20.04 LTS
 
->. STYLE QUIDELINE: Betty style
+>. STYLE GUIDELINE: Betty style
+
+>. CONPILER: gcc
 
 
 # Description of what each file does:
@@ -47,6 +49,12 @@ This directory contains some projects I worked on for ALX. The goal is to learn 
 
 9- A function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
 
-10- A function that converts a string to an integer -the number in the string can be preceded by an infinite number of characters -need to take into account all the - and + signs before the number -if there are no numbers in the string, the function must return 0 -not allowed to use long -not allowed to declare new variables of “type” array -not allowed to hard-code special values -code needs to work on both ubuntu 14.04 LTS and 16.04 LTS -code will be compiled with -fsanitize=signed-integer-overflow gcc flag (You can install the last version on your VM) -code will be compiled with gcc version 5 or above
+10- A function that converts a string to an integer
+ -the number in the string can be preceded by an infinite number of characters -need to take into account all the
+ - and + signs before the number 
+ -if there are no numbers in the string, the function must return 0
+ -not allowed to use long 
+ -not allowed to declare new variables of “type” array 
+ -not allowed to hard-code special values 
 
 11- A program that generates random valid passwords for the program 101-crackme.
