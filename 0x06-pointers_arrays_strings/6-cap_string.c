@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * cap_string - capitalize first letter of each word
@@ -27,5 +27,6 @@ s[i - 1] == '}' || s[i - 1] == ' ' || s[i - 1] == '\t'
 s[i] = s[i] - 'a' + 'A';
 i++;
 }
+
 return (s);
 }
