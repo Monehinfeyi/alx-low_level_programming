@@ -1,8 +1,6 @@
-#ifndef FUNCTION_LIKE_MACRO
-#define FUNCTION_LIKE_MACRO
+#ifndef _function_like_macro_h_
+#define _function_like_macro_h_
 
-#include <stdio.h>
+#define ABS(x) (((x) < (0)) ? ((x) * (-1)) : (x))
 
-#define ABS(x) (((x) < 0) ? (-x) : (x))
-
-#endif
+#endif /* _function_like_macro_h_ */
